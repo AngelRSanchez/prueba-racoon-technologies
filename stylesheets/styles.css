@@ -658,9 +658,7 @@ footer span a:hover {
     margin: 0 auto;
     position: fixed;
     height: 10vh;
-    position: relative;
     background: #2a2a2a;
-    position: relative;
     display: grid;
     justify-content: center;
     align-items: center;
@@ -733,7 +731,8 @@ footer span a:hover {
 
   section#home .fullSizeScreen .containerModal {
     flex-direction: column;
-    left: 40%;
+    left: 47%;
+    width: 90%;
   }
 
   section#home .fullSizeScreen .containerModal .left {
